@@ -17,7 +17,7 @@ Add, commit, and push these changes to GitHub
 
 Make some more changes to the local copy of your file and push them to GitHub
 >>made some changes
+>>git push -u origin main
 
 Go to your GitHub account and see your new repo and the changes you've made
-
-Upload a simple .txt file that outlines the steps you took
+>>Done!!
