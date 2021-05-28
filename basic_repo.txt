@@ -1,12 +1,22 @@
 Create a new repo on GitHub and call it basic_repo
+>>basic_repo
 
 Create a local repository also called basic_repo
+>>mkdir basic_repo
+>>git init
 
 Create some files inside your local repo and add some content on them
+>>touch basic_repo.txt then added content
 
 Add, commit, and push these changes to GitHub
+>>git add .
+>>git commit -m "update content"
+>>git branch -M main
+>>git remote add origin https://github.com/SiripaMineo/basic_repo.git
+>>git push -u origin main
 
 Make some more changes to the local copy of your file and push them to GitHub
+>>made some changes
 
 Go to your GitHub account and see your new repo and the changes you've made
 
